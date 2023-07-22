@@ -120,6 +120,7 @@ createBtn.addEventListener("click", (e) => {
   }
   const form = document.getElementById("myForm"); 
   form.reset();
+
 });
 
 
